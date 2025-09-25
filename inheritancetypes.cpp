@@ -18,7 +18,7 @@ public:
 class grandchild : public child{
 public:
     grandchild(){
-        cout<<"grand child class"<<endl;
+         cout<<"grand child class"<<endl;
     }
 };
 

@@ -13,4 +13,4 @@ else if(age>18){
     cout<<"you are teenager"<<endl;
 }
 return 0;
-}
+} 

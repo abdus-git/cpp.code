@@ -25,4 +25,4 @@ int main(){
     s.add(float(4.6),float(3.5),float(1.2));
     
     return 0;
-}
+} 
